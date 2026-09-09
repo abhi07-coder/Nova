@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Light Mode Colors */
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f9fafb;
+  --text-primary: #111827;
+  --text-secondary: #6b7280;
+  --border-color: #f3f4f6;
+  --card-bg: #ffffff;
+}
+
+/* Dark Mode Colors */
+.dark {
+  --bg-primary: #030712;
+  --bg-secondary: #111827;
+  --text-primary: #f9fafb;
+  --text-secondary: #9ca3af;
+  --border-color: #1f2937;
+  --card-bg: #111827;
+}
+
+/* Apply to all sections automatically */
+section {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Cards */
+.card {
+  background-color: var(--card-bg);
+  border-color: var(--border-color);
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+/* Text Colors */
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+/* Backgrounds */
+.bg-secondary {
+  background-color: var(--bg-secondary);
+}
+
+/* Footer stays dark always */
+footer {
+  background-color: #111827 !important;
+}
