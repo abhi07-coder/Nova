@@ -107,21 +107,21 @@ http://localhost:5173
 
 ## Sections Included
 
-| Section | Description |
-|---|---|
-| Navbar | Responsive navigation with mobile hamburger menu |
-| Hero | Main headline with email validation |
-| Trusted By | Company logos section |
-| Features | 6 feature cards with hover effects |
-| About | Two-column product section |
-| How It Works | 4-step process with connector lines |
-| Stats | Animated counters with IntersectionObserver |
-| Solutions | 4 use case cards |
-| Testimonials | Carousel with prev/next navigation |
-| Pricing | 3 plans with monthly/annual toggle |
-| FAQ | Accordion with 6 questions |
-| CTA | Final conversion section with email input |
-| Footer | Multi-column footer with links |
+|----Section----|------------------Description---------------------|
+|-------|-------|--------------------------------------------------|
+| Navbar--------| Responsive navigation with mobile hamburger menu |
+| Hero----------| Main headline with email validation              |
+| Trusted By----| Company logos section                            |
+| Features------| 6 feature cards with hover effects               |
+| About---------| Two-column product section                       |
+| How It Works--| 4-step process with connector lines              |
+| Stats---------| Animated counters with IntersectionObserver      |
+| Solutions-----| 4 use case cards                                 |
+| Testimonials--| Carousel with prev/next navigation               |
+| Pricing-------| 3 plans with monthly/annual toggle               |
+| FAQ-----------| Accordion with 6 questions                       |
+| CTA-----------| Final conversion section with email input        |
+| Footer--------| Multi-column footer with links                   |
 
 ---
 
