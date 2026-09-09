@@ -66,12 +66,12 @@ Follow these steps to run the project locally:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/nova-landing.git
+git clone https://github.com/your-username/nova.git
 ```
 
 **2. Enter the project folder**
 ```bash
-cd nova-landing
+cd nova
 ```
 
 **3. Install dependencies**
