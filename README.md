@@ -2,13 +2,13 @@
 
 A fully responsive, modern landing page built for NOVA — an AI-powered productivity platform that helps teams manage projects, automate repetitive tasks and collaborate efficiently.
 
-## 🔗 Live Demo
+## Live Demo
 
-[View Live Site](https://your-vercel-url.vercel.app)
+[View Live Site](https://nova-seven-peach.vercel.app)
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **React 18** — Component-based UI
 - **Vite** — Fast development build tool
@@ -17,7 +17,7 @@ A fully responsive, modern landing page built for NOVA — an AI-powered product
 
 ---
 
-## ✨ Features
+## Features
 
 - Fully responsive — Mobile, Tablet, Desktop
 - Dark / Light mode toggle
@@ -32,7 +32,7 @@ A fully responsive, modern landing page built for NOVA — an AI-powered product
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 Nova/
 ├── public/
 ├── src/
@@ -60,7 +60,7 @@ Nova/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -89,7 +89,7 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Light Mode
 ![Light Mode](./screenshots/light.png)
@@ -99,13 +99,13 @@ http://localhost:5173
 
 ---
 
-## 🤖 AI Tools Used
+## AI Tools Used
 
 - **Claude (Anthropic)** — Used for code assistance, component structure suggestions and debugging help. All code was reviewed, understood and manually implemented.
 
 ---
 
-## 📋 Sections Included
+## Sections Included
 
 | Section | Description |
 |---|---|
@@ -125,7 +125,7 @@ http://localhost:5173
 
 ---
 
-## ♿ Accessibility
+## Accessibility
 
 - Semantic HTML tags — `nav`, `main`, `section`, `footer`
 - `aria-label` on all icon buttons
@@ -135,7 +135,7 @@ http://localhost:5173
 
 ---
 
-## 🎨 Design Decisions
+## Design Decisions
 
 - **Indigo + Purple** color palette — professional and modern
 - **Consistent spacing** — 24px section padding throughout
@@ -145,7 +145,7 @@ http://localhost:5173
 
 ---
 
-## ⚡ Performance
+## Performance
 
 - No external image dependencies
 - Minimal third-party libraries
